@@ -7,4 +7,4 @@ create a text file with 9 rows, each row containing 9 cells to test. Or use the 
 
 **Example Output:**
 
-![](sudokuOutput.png) ![](Sudoku_example.png)
+![](sudokuOutput.png) ![](SudokuSolver/Sudoku_example.png)
