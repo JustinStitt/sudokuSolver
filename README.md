@@ -8,3 +8,8 @@ create a text file with 9 rows, each row containing 9 cells to test. Or use the 
 **Example Output:**
 
 ![](sudokuOutput.png)
+
+
+see wiki for rules and insights:
+
+https://en.wikipedia.org/wiki/Sudoku
